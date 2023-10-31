@@ -10,7 +10,7 @@ AppleScriptを使っているので，Macでないと使えない．
 ```shell
 $ vi ~/.zshrc
 # 以下を追記
-alias crab="osascript /path/to/nvidia.scpt && ssh crab"
+alias crab="osascript /path/to/watch_nvidia.scpt && ssh crab"
 ```
 
 ## 既にお気に入りのウィンドウ配置がある場合
